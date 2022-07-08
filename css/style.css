@@ -1,0 +1,36 @@
+body{
+    size: 12rem;
+    color: orange;
+    font-family: sans-serif;
+
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+    margin: 40px 0 50px;
+}
+h2{
+   font-size: 2rem;
+   position:relative;
+   margin-left: 35rem;
+   padding-top: 2rem;
+}
+h3{
+    size: 12rem;
+    color: black;
+    position: absolute;
+    margin-left: 44rem;
+}
+.gallery img{
+    width: 240px;
+    padding: 3px;
+    padding-top: 3rem;
+}
+.gallery img:hover{
+    transform: scale(1.3);
+}
+.modal {
+    position:fixed;
+    top: 0;
+    left: 0;
+}
