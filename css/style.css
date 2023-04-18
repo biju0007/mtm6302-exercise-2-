@@ -1,6 +1,6 @@
 body{
     size: 12rem;
-    color: orange;
+    color: rgb(0, 0, 0);
     font-family: sans-serif;
     width: 100%;
     height: 100%;
@@ -8,7 +8,7 @@ body{
 }
 h1{
     text-align: center;
-    color: orange;
+    color: rgb(255, 255, 255);
     /* margin: 40px 0 50px; */
 }
 h2{
@@ -16,7 +16,7 @@ h2{
    /* position:relative; */
    margin-left: 20rem;
    align-content: center;
-   color: orange;
+   color: rgb(255, 255, 255);
    margin-left: 20rem;
    margin-bottom: 0%;
 
@@ -67,7 +67,7 @@ h3{
 
 @media only screen and (min-width: 768px) {
     body {
-      background-color: black;
+      background-color: rgb(83, 82, 82);
       max-width: 70vw;
       padding-left: 14rem ;
      /* padding-bottom: 2rem; */
@@ -76,7 +76,7 @@ h3{
   }
 @media screen and (max-width : 768px) {
     body {
-      background-color: black;
+      background-color: rgb(94, 94, 94);
       max-width: 70vw;
       padding-left: 10rem ;
       
